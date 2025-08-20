@@ -38,7 +38,7 @@ Near-Real-Time-DW-MeshJoin/
 ├── products_data.csv              # Product dimension data
 ├── transactions_data.csv          # Transaction stream data
 ├── StarSchema.png                 # Database schema diagram
-└── README.md                      # This file
+└── README.md                      # This file 
 ```
 
 ## 🚀 Getting Started
